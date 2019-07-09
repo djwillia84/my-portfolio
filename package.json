@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack",
     "webpack-watch": "webpack --watch"
+    "wpd": "webpack --mode development",
+    "wpp": "webpack --mode production"
+    "wwd": "webpack --watch --mode development",
+    "wwp": "webpack --watch --mode production"
   },
   "repository": {
     "type": "git",
