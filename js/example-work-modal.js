@@ -16,16 +16,19 @@ class ExampleWorkModal extends React.Component {
              className="modal__image"
              src={ example.image.src }/>
         <div className="color--cloud modal__text">
-          <h2 className="modal__title">
+          <h1 className="modal__title" align="center">
             { example.title }
-          </h2>
-          <a className="color--skyBlue modal__link"
+          </h1>
+          
+           <br></br>   
+          <p className="modal__description" align="center">
+            { example.desc }
+          </p>
+<br></br>
+          <a className="color--skyBlue modal__link" align="center"
              href={ example.href }>
             Check it out
           </a>
-          <p className="modal__description">
-            { example.desc }
-          </p>
         </div>
       </div>
     )

@@ -80,7 +80,11 @@ h1, h2, h3, h4, h5, h6 {
 /*
   Sections
 */
-
+.responsive {
+  width: 100%;
+  max-width: 1800px;
+  height: auto;
+}
 .section {
   font-size: 4.2rem;
   min-height: 15vh;
@@ -99,6 +103,16 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 3.5rem;
 }
 
+.section--archdescription {
+  font-size: 2rem;
+  padding-left: 3.5rem;
+  padding-right: 3.5rem;
+  }
+.section__archdescription {
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    width: 45%;
+  }
 .section__description {
   margin: 0 auto;
   margin-bottom: 2rem;

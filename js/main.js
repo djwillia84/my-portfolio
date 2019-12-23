@@ -4,7 +4,7 @@ import ExampleWork from './example-work';
 
 const myWork = [
   {
-    'title': "Work Example",
+    'title': "Coming Soon",
     'href': "https://example.com",
     'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     'image': {
@@ -14,17 +14,17 @@ const myWork = [
     }
   },
   {
-    'title': "Portfolio Boilerplate",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'title': "Serverless Portfolio Boilerplate",
+    'href': "architecture.html",
+    'desc': "This serverless website was created with the help from a class taught by Robin Norwood at A Cloud Guru.  Click the 'check it out button'  to see what technologies were used.",
     'image': {
       'desc': "A serverless Portfolio",
-      'src': "images/example2.png",
+      'src': "images/portfolio.png",
       'comment': ""
     }
   },
   {
-    'title': "Work Example",
+    'title': "Coming Soon",
     'href': "https://example.com",
     'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     'image': {
